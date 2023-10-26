@@ -1,0 +1,44 @@
+First Name : John
+Last Name : Doe
+Address : 123 Main St
+City : City
+State : State
+Zipcode : 12345
+Phone Number : 1234567890
+Email : priyaranjan.naxtre@gmail.com
+Insurance Company : XYZ Insurance
+Vehicle Make/Model : Honda Civic
+Preferred Contact Method : Email
+Location : SL
+Claim Number : 123456789
+
+
+Terms & Conditions Agreement
+
+- REPAIR AUTHORIZATION
+I authorize Silver Lining Collision, LLC, henceforth referred to as “Silver Lining” and its employees to repair the vehicle including the purchase and installation of all necessary parts, materials, labor, and subcontract services.
+
+I understand that any repair estimate is based on a preliminary inspection and does not cover additional parts or labor that may be required to complete the repair.
+
+I authorize Silver Lining and its employees to drive the vehicle for purposes including sublet repair, diagnosis, testing and/or inspection.
+
+I agree to remove all valuables and personal property from the vehicle. I understand that Silver Lining will NOT be held responsible for the loss or theft of any personal property left in the vehicle.
+
+I understand that Silver Lining Collision will NOT be responsible for any vehicle rental expenses (including insurance costs) incurred during the repair process.
+
+I authorize my insurance company to pay Silver Lining directly for all repairs including any supplemental payments. I hereby appoint Silver Lining as a true and lawful attorney in fact to endorse, on my behalf, any insurance check received as payment for repairs performed on the vehicle.
+
+Silver Lining will accept payment as follows: Insurance Checks (best method) and Credit Cards (Visa, MasterCard, Discover and AMEX). I am responsible for payment in full for the repairs except to the extent an insurance payment has been made. I understand that the vehicle will not be released to me until full payment has been made.
+
+After 30 days from the completion of the repair (or such longer period as may be required under applicable state law), I understand that the vehicle may be deemed abandoned if I fail to retrieve the vehicle for any reason, including failing to make payment in full. In such an event, Silver Lining may, in its sole discretion, impound the vehicle with a third party or seek to declare the vehicle abandoned for purposes of resale. Any proceeds from such a resale shall first go to pay costs and then to the balance owed to Silver Lining.
+
+I understand that an express mechanic's lien is hereby acknowledged to secure payment. Should legal action be necessary to enforce collection, I will be responsible for all legal expenses.
+
+I understand that Silver Lining is not responsible for any damage to the vehicle resulting from any act of nature including, without limitation, damage caused by hail, wind, fire, or flood.
+
+I understand and agree that Silver Lining may provide my contact information to a third-party organization that may contact me for the sole purpose of conducting a customer satisfaction survey.
+
+
+
+SIGNATURE: John Doe
+DATE: 01-07-2023

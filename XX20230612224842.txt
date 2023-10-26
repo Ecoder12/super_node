@@ -1,0 +1,34 @@
+First Name: John
+Last Name: Doe
+Address: 123 Main St
+City: Example City
+State: Example State
+Zipcode: 12345
+Phone Number: 555-123-4567
+Email: johndoe@example.com
+Insurance Company: Example Insurance
+Vehicle Make/Model: Example Make/Model
+Preferred Contact Method: Email
+Claim Number: ABC123
+
+Terms & Conditions Agreement
+
+- REPAIR AUTHORIZATION
+  I, the undersigned, hereby authorize Winners Circle and its employees to repair my vehicle, to drive my vehicle for the purpose of testing and/or inspection.
+
+  I understand that an express mechanic's lien is acknowledged on the vehicle to secure the amount of repairs thereto.
+
+  I understand that Winners Circle Collision will NOT be held responsible for theft of vehicle or missing articles left in the vehicle such as: iPods, iPads, cameras, sunglasses, credit cards, money, CDs, golf clubs, etc. Please remove all items from your vehicle before or when you drop off your vehicle for repairs.
+
+  I understand that Winners Circle Collision will NOT be responsible for any auto rental during the repair process.
+
+  I further understand that Winners Circle Collision is unable to release any vehicle without full payment.
+
+  I am responsible for payment in full for the repairs of my vehicle, either before or after completion of work. It is my responsibility to receive payment from the Insurance Company or from the party who is paying for the repairs.
+
+  I authorize the Insurance Company to pay Winners Circle Collision directly for all supplemental and original repairs. I authorize Winners Circle Collision to endorse my name to any insurance checks received for payment for repairs of my vehicle.
+
+**WE DO NOT ACCEPT PERSONAL CHECKS OR CASHIER'S CHECKS***
+
+SIGNATURE: John Doe
+DATE: 20230612-06-12

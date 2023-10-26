@@ -83,32 +83,32 @@ Terms & Conditions Agreement
 Should legal action be necessary to enforce collection, I will be responsible for all legal 
 expenses.
 
-      I understand that Superstar Collision Center LLC is not responsible for any damage to the vehicle resulting 
+      I understand that Superstar Collision LLC is not responsible for any damage to the vehicle resulting 
 from any act of nature including, without limitation, damage caused by hail, wind, fire, or flood.
 
-      I understand and agree that Superstar Collision Center LLC may provide my contact information to a third-party
+      I understand and agree that Superstar Collision LLC may provide my contact information to a third-party
 organization that may contact me for the sole purpose of conducting a customer satisfaction survey.
 
-      LIMITED WARRANTY. Subject to the specified exclusions and exceptions, Superstar Collision Center LLC provides a 
+      LIMITED WARRANTY. Subject to the specified exclusions and exceptions, Superstar Collision LLC provides a 
 limited warranty for the work performed under this Repair Authorization. This limited warranty includes 
 all repairs, paint and workmanship on sheet metal, frame, unitized chassis components, and mechanical 
 items, but specifically excludes electric systems. This limited warranty is subject to any manufacturer’s 
 warranty covering parts and materials. This limited warranty is non-transferable and valid for as long 
-as I own the vehicle. During the limited warranty period, Superstar Collision Center LLC will repair or replace any defects 
-caused by Superstar Collision Center LLC or its agents. All warranty repairs must be performed at one of Superstar Collision Center LLC 
-facilities; any repairs or alterations to the vehicle performed non-Superstar Collision Center LLC facility in any manner 
+as I own the vehicle. During the limited warranty period, Superstar Collision LLC will repair or replace any defects 
+caused by Superstar Collision LLC or its agents. All warranty repairs must be performed at one of Superstar Collision LLC 
+facilities; any repairs or alterations to the vehicle performed non-Superstar Collision LLC facility in any manner 
 whatsoever shall automatically void this limited warranty. This limited warranty shall not apply to 
-repairs necessitated by any cause beyond the reasonable control of Superstar Collision Center LLC, including any defects, 
+repairs necessitated by any cause beyond the reasonable control of Superstar Collision LLC, including any defects, 
 damage, or malfunctions caused by or resulting from unauthorized service or parts, improper or inadequate 
 vehicle maintenance, alterations, accidents, modification or repairs, subsequent repairs performed by a 
-party other than Superstar Collision Center LLC, abuse, misuse, neglect, acts of God, or environmental damage. 
+party other than Superstar Collision LLC, abuse, misuse, neglect, acts of God, or environmental damage. 
 THE WARRANTIES AS SET FORTH IN THIS SERVICE CONTRACT ARE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR 
 IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A 
 PARTICULAR PURPOSE.
 
-      LIMITATION OF LIABILITY. In no event shall Superstar Collision Center LLC be liable for consequential, special, or 
-indirect damages of any nature, and Superstar Collision Center LLC maximum liability shall be no greater than the amount 
-actually paid to, and received by, Superstar Collision Center LLC for the services performed on the vehicle.
+      LIMITATION OF LIABILITY. In no event shall Superstar Collision LLC be liable for consequential, special, or 
+indirect damages of any nature, and Superstar Collision LLC maximum liability shall be no greater than the amount 
+actually paid to, and received by, Superstar Collision LLC for the services performed on the vehicle.
 
       MANDATORY ARBITRATION. I agree that all claims and disputes relating to this Repair Authorization 
 (including the arbitrability of any issue), shall be exclusively, solely, and finally settled by confidential 
@@ -129,13 +129,13 @@ ONLY THEIR OWN, INDIVIDUAL CLAIMS IN ARBITRATION AND WILL NOT SEEK TO REPRESENT 
 INDIVIDUALS, AND NO CLAIMS WILL BE JOINED, CONSOLIDATED, OR HEARD TOGETHER WITH THE CLAIMS OF ANY OTHER INDIVIDUALS.
 
       ENTIRE AGREEMENT. The terms contained in this Repair Authorization constitute the entire agreement between you and 
-Superstar Collision Center LLC. This Repair Authorization shall supersede all prior oral and written discussions, agreements, and 
+Superstar Collision LLC. This Repair Authorization shall supersede all prior oral and written discussions, agreements, and 
 understandings of the parties regarding the subject matter of this Authorization. No modification, amendment, supplement
 to or waiver of this Repair Authorization or its terms and conditions shall be binding upon either party unless made in 
-writing and signed by both you and an authorized manager of Superstar Collision Center LLC.
+writing and signed by both you and an authorized manager of Superstar Collision LLC.
 
-      I authorize any and all supplements payable direct to Superstar Collision Center LLC .  I authorize Superstar Collision Center LLC Downtown
- Car Care LLC POWER OF ATTORNEY TO SIGN supplement payments.
+      I authorize any and all supplements payable direct to Superstar Collision LLC .  I authorize Superstar Collision LLC 
+POWER OF ATTORNEY TO SIGN supplement payments.
 
 
 SIGNATURE: ${content['your-first-name']} ${content['your-last-name']}
@@ -207,16 +207,16 @@ doc.moveDown();
   doc.text(`I understand that an express mechanic’s lien is hereby acknowledged to secure payment. Should legal action be necessary to enforce collection, I will be responsible for all legal expenses.`);
   doc.moveDown();
 
-  doc.text(`I understand that Superstar Collision Center LLC  is not responsible for any damage to the vehicle resulting from any act of nature including, without limitation, damage caused by hail, wind, fire, or flood.`);
+  doc.text(`I understand that Superstar Collision LLC  is not responsible for any damage to the vehicle resulting from any act of nature including, without limitation, damage caused by hail, wind, fire, or flood.`);
   doc.moveDown();
 
-  doc.text(`I understand and agree that Superstar Collision Center LLC  may provide my contact information to a third-party organisation that may contact me for the sole purpose of conducting a customer satisfaction survey.`);
+  doc.text(`I understand and agree that Superstar Collision LLC  may provide my contact information to a third-party organisation that may contact me for the sole purpose of conducting a customer satisfaction survey.`);
   doc.moveDown();
 
-  doc.text(`LIMITED WARRANTY. Subject to the specified exclusions and exceptions, Superstar Collision Center LLC  provides a limited warranty for the work performed under this Repair Authorization. This limited warranty includes all repairs, paint and workmanship on sheet metal, frame, unitized chassis components, and mechanical items, but specifically excludes electric systems. This limited warranty is subject to any manufacturer’s warranty covering parts and materials. This limited warranty is non-transferable and valid for as long as I own the vehicle. During the limited warranty period, Superstar Collision Center LLC  will repair or replace any defects caused by Superstar Collision Center LLC  or its agents. All warranty repairs must be performed at one of Superstar Collision Center LLC  facilities; any repairs or alterations to the vehicle performed Non-Superstar Collision Center LLC  facility in any manner whatsoever shall automatically void this limited warranty. This limited warranty shall not apply to repairs necessitated by any cause beyond the reasonable control of Superstar Collision Center LLC , including any defects, damage, or malfunctions caused by or resulting from unauthorized service or parts, improper or inadequate vehicle maintenance, alterations, accidents, modification or repairs, subsequent repairs performed by a party other than Superstar Collision Center LLC , abuse, misuse, neglect, acts of God, or environmental damage. THE WARRANTIES AS SET FORTH IN THIS SERVICE CONTRACT ARE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.`);
+  doc.text(`LIMITED WARRANTY. Subject to the specified exclusions and exceptions, Superstar Collision LLC  provides a limited warranty for the work performed under this Repair Authorization. This limited warranty includes all repairs, paint and workmanship on sheet metal, frame, unitized chassis components, and mechanical items, but specifically excludes electric systems. This limited warranty is subject to any manufacturer’s warranty covering parts and materials. This limited warranty is non-transferable and valid for as long as I own the vehicle. During the limited warranty period, Superstar Collision LLC  will repair or replace any defects caused by Superstar Collision LLC  or its agents. All warranty repairs must be performed at one of Superstar Collision LLC  facilities; any repairs or alterations to the vehicle performed Non-Superstar Collision LLC  facility in any manner whatsoever shall automatically void this limited warranty. This limited warranty shall not apply to repairs necessitated by any cause beyond the reasonable control of Superstar Collision LLC , including any defects, damage, or malfunctions caused by or resulting from unauthorized service or parts, improper or inadequate vehicle maintenance, alterations, accidents, modification or repairs, subsequent repairs performed by a party other than Superstar Collision LLC , abuse, misuse, neglect, acts of God, or environmental damage. THE WARRANTIES AS SET FORTH IN THIS SERVICE CONTRACT ARE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.`);
   doc.moveDown();
 
-  doc.text(`LIMITATION OF LIABILITY. In no event shall Superstar Collision Center LLC  be liable for consequential, special, or indirect damages of any nature, and Superstar Collision Center LLC  maximum liability shall be no greater than the amount actually paid to, and received by, Superstar Collision Center LLC  for the services performed on the vehicle.`);
+  doc.text(`LIMITATION OF LIABILITY. In no event shall Superstar Collision LLC  be liable for consequential, special, or indirect damages of any nature, and Superstar Collision LLC  maximum liability shall be no greater than the amount actually paid to, and received by, Superstar Collision LLC  for the services performed on the vehicle.`);
   doc.moveDown();
 
   doc.text(`MANDATORY ARBITRATION. I agree that all claims and disputes relating to this Repair Authorization (including the arbitrability of any issue), shall be exclusively, solely, and finally settled by confidential arbitration in the state in which the repair was performed, in accordance with the Federal Arbitration Act(9 U.S.C. § 1 et. seq.), and the then-existing rules of the American Arbitration Association (“AAA”). There shall be a single arbitrator. The filing costs shall be the sole responsibility of the party filing arbitration. If the parties cannot agree on a single arbitrator, then each party shall select one individual to choose an arbitrator and those individuals shall agree on the arbitrator within 10 days. The arbitrator shall have the right to award or include in any award the specific performance of these terms and/or costs and expenses of the arbitration (including reasonable attorneys’fees) in accordance with what he or she deems just and equitable under the circumstances. The arbitrator’s decision may be reduced to a judgment in any competent jurisdiction.`);
@@ -225,10 +225,10 @@ doc.moveDown();
   doc.text(`CLASS ACTION WAIVER. THE PARTIES WAIVE THE RIGHT TO ASSERT ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THIS REPAIR AUTHORIZATION AGAINST THE OTHER PARTY AS A REPRESENTATIVE OR MEMBER IN ANY CLASS ACTION OR COLLECTIVE ACTION. THE PARTIES EXPRESSLY INTEND FOR ARBITRATION AS PROVIDED ABOVE TO BE THE SOLE AND EXCLUSIVE REMEDY FOR ANY AND ALL CLAIMS ARISING OUT OF OR RELATED TO THIS REPAIR AUTHORIZATION. THE PARTIES SHALL SUBMIT ONLY THEIR OWN, INDIVIDUAL CLAIMS IN ARBITRATION AND WILL NOT SEEK TO REPRESENT THE INTERESTS OF ANY OTHER INDIVIDUALS AND NO CLAIMS WILL BE JOINED, CONSOLIDATED, OR HEARD TOGETHER WITH THE CLAIMS OF ANY OTHER INDIVIDUALS.`);
   doc.moveDown();
 
-  doc.text(`ENTIRE AGREEMENT. The terms contained in this Repair Authorization constitute the entire agreement between you and Superstar Collision Center LLC . This Repair Authorization shall supersede all prior oral and written discussions, agreements, and understandings of the parties regarding the subject matter of this Authorization. No modification, amendment, supplement to or waiver of this Repair Authorization or its terms and conditions shall be binding upon either party unless made in writing and signed by both you and an authorized manager of Superstar Collision Center LLC .`);
+  doc.text(`ENTIRE AGREEMENT. The terms contained in this Repair Authorization constitute the entire agreement between you and Superstar Collision LLC . This Repair Authorization shall supersede all prior oral and written discussions, agreements, and understandings of the parties regarding the subject matter of this Authorization. No modification, amendment, supplement to or waiver of this Repair Authorization or its terms and conditions shall be binding upon either party unless made in writing and signed by both you and an authorized manager of Superstar Collision LLC .`);
   doc.moveDown();
 
-  doc.text(`I authorize any and all supplements payable direct to Superstar Collision Center LLC .  I authorize Superstar Collision Center LLC  POWER OF ATTORNEY TO SIGN supplement payments.`);
+  doc.text(`I authorize any and all supplements payable direct to Superstar Collision LLC .  I authorize Superstar Collision LLC  POWER OF ATTORNEY TO SIGN supplement payments.`);
   doc.moveDown();
 
 
